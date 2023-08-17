@@ -16,5 +16,5 @@
 
 </td><td valign="top" width="100%">
 
-## Studying
+## Learning
 [Developing a server by using the Spring Framework](https://k-diger.github.io/)
