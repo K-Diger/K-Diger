@@ -21,7 +21,4 @@
 </td><td valign="top" width="25%">
 
 ## Studying
-<code><img height="30" src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></code>
