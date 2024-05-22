@@ -1,3 +1,6 @@
+### 2024-04 ~ 2024-07
+- [스마일게이트 홀딩스 - ERP시스템 재구축 프로젝트 [인턴]](https://www.smilegate.com/ko)
+
 ### 2023-12 ~ 2024-02
 - [Easel - MSA기반 트위터 클론 프로젝트 [운영 종료]](https://github.com/sgdevcamp2023/palette)
 
