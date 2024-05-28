@@ -2,7 +2,7 @@
 
 #### 2024-04 ~ 2024-07
 
-[스마일게이트 홀딩스 - ERP시스템 재구축 프로젝트 [인턴]](https://www.smilegate.com/ko)
+- [스마일게이트 홀딩스 - ERP시스템 재구축 프로젝트 [인턴]](https://www.smilegate.com/ko)
 
 ---
 
