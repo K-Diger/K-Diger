@@ -1,15 +1,10 @@
-<table>
-<tr>
-<td valign="top" width="33%">
-
 ### Work Experience
 
 #### 2024-04 ~ 2024-07
 
 [스마일게이트 홀딩스 - ERP시스템 재구축 프로젝트 [인턴]](https://www.smilegate.com/ko)
 
-</td>
-<td valign="top" width="42%">
+---
 
 ### Project Experience
 
@@ -20,7 +15,6 @@
 #### 2023-04 ~ 2023-08
 
 - [Shorts - 키워드로 보는 짧은 뉴스 [운영 중]](https://github.com/mash-up-kr/SeeYouAgain_Spring)
-
   
 #### 2022-09 ~ 2023-01
 
@@ -29,18 +23,10 @@
 #### 2022-01 ~ 2022-08
 - [SUWIKI - 수원대학교 공식 강의평가 플랫폼 [운영 중]](https://github.com/uswLectureEvaluation/SUWIKI-Spring)
 
-</td>
-
-<td valign="top" width="25%">
+---
 
 ### Learning
 
 #### 2022-01 ~ 
   
 - [Spring 생태계를 공부하는 중](https://k-diger.github.io/)
-
-  
-</td>
-
-</tr>
-</table>
