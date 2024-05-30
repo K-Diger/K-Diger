@@ -10,7 +10,7 @@
 
 #### 2024-05 ~
 
-- [Piikii - 클린 아키텍처/멀티 모듈기반 모임 관리 서비스](https://github.com/mash-up-kr/piikii_Spring)
+- [Piikii - 클린 아키텍처/멀티 모듈 기반 모임 관리 서비스](https://github.com/mash-up-kr/piikii_Spring)
 
 #### 2023-12 ~ 2024-02
 
