@@ -10,15 +10,15 @@
 
 #### 2024-05 ~
 
-- [피키 - 클린 아키텍처/멀티 모듈 기반 모임 관리 서비스](https://github.com/mash-up-kr/piikii_Spring)
+- [피키 - 클린아키텍처 기반 모임 관리 서비스 [개발 중]](https://github.com/mash-up-kr/piikii_Spring)
 
 #### 2023-12 ~ 2024-02
 
-- [이젤 - MSA기반 트위터 클론 프로젝트 [운영 종료]](https://github.com/sgdevcamp2023/palette)
+- [이젤 - MSA 기반 트위터 클론 프로젝트 [운영 종료]](https://github.com/sgdevcamp2023/palette)
 
 #### 2023-04 ~ 2023-08
 
-- [숏스 - 키워드로 보는 짧은 뉴스 [운영 중]](https://github.com/mash-up-kr/SeeYouAgain_Spring)
+- [숏스 - 키워드로 보는 짧은 뉴스 [운영 종료]](https://github.com/mash-up-kr/SeeYouAgain_Spring)
   
 #### 2022-09 ~ 2023-01
 
