@@ -23,4 +23,4 @@
 
 ### 학습
 
-- #### [Spring 생태계 학습](https://k-diger.github.io/) (2022.01 ~ 현재)
+- #### [Spring 및 Infra 구축 관련 학습](https://k-diger.github.io/) (2022.01 ~ 현재)
