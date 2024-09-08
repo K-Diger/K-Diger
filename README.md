@@ -1,4 +1,4 @@
-## 업무 경험
+### 업무 경험
 
 - #### [스마일게이트 홀딩스](https://www.smilegate.com/ko) (2024.04 ~ 현재)
   - DevOps/Backend Developer
@@ -7,7 +7,7 @@
 
 ---
 
-## 프로젝트 경험
+### 프로젝트 경험
 
 - #### [피키 - 멀티 모듈/클린 아키텍처 기반 모임 관리 서비스](https://github.com/mash-up-kr/piikii_Spring) (2024.05 ~ 개발 중)
 
@@ -21,6 +21,6 @@
 
 ---
 
-## 학습
+### 학습
 
 - #### [Spring 생태계 학습](https://k-diger.github.io/) (2022.01 ~ 현재)
