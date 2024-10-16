@@ -1,9 +1,9 @@
 ### 업무 경험
 
 - #### [스마일게이트 홀딩스](https://www.smilegate.com/ko) (2024.04 ~ 현재)
-  - DevOps/Backend Developer
-  - ERP 시스템 (근태/총무/인사/통합권한관리) 재구축
-  - 온프레미스 환경 내 인프라 구축 및 업무 로직 개발
+  - Site Reliability Engineer
+    - 온프레미스 환경 내 인프라 시스템 구축 및 공통코드 개발
+    - MIS(경영정보시스템) 업무 로직 개발
 
 ---
 
