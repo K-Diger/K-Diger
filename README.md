@@ -1,15 +1,15 @@
 ### 업무 경험
 
-- #### [스마일게이트 홀딩스](https://www.smilegate.com/ko) (2024.04 ~ 현재)
-  - Site Reliability Engineer
-    - 온프레미스 환경 내 인프라 시스템 구축 및 공통코드 개발
-    - MIS(경영정보시스템) 업무 로직 개발
+- #### [스마일게이트 홀딩스](https://www.smilegate.com/ko) - DevOps Engineer (2024.04 ~ 현재)
+    - 온프레미스 환경 내 인프라 시스템 구축 및 운영
+    - 인프라 시스템 공통코드 개발 및 튜닝
+    - 경영정보시스템 업무 로직 개발
 
 ---
 
 ### 프로젝트 경험
 
-- #### [피키 - 멀티 모듈/클린 아키텍처 기반 모임 관리 서비스](https://github.com/mash-up-kr/piikii_Spring) (2024.05 ~ 개발 중)
+- #### [피키 - 멀티 모듈/클린 아키텍처 기반 모임 관리 서비스](https://github.com/mash-up-kr/piikii_Spring) (2024.05 ~ 2024.10)
 
 - #### [이젤 - MSA 기반 트위터 클론 프로젝트](https://github.com/sgdevcamp2023/palette) (2023.12 ~ 2024.02)
 
@@ -23,4 +23,4 @@
 
 ### 학습
 
-- #### [Spring 및 Infra 구축 관련 학습](https://k-diger.github.io/) (2022.01 ~ 현재)
+- #### [Spring, DevOps 관련 학습](https://k-diger.github.io/) (2022.01 ~ 현재)
