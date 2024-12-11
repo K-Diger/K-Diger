@@ -1,9 +1,9 @@
 ### 업무 경험
 
-- #### [스마일게이트 홀딩스](https://www.smilegate.com/ko) - DevOps Engineer (2024.04 ~ 현재)
+- #### [스마일게이트 홀딩스](https://www.smilegate.com/ko) - Server Developer (2024.04 ~ 현재)
+    - 경영정보시스템 업무 로직 개발
     - 온프레미스 환경 내 인프라 시스템 구축 및 운영
     - 인프라 시스템 공통코드 개발 및 튜닝
-    - 경영정보시스템 업무 로직 개발
 
 ---
 
