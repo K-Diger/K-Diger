@@ -1,4 +1,5 @@
 2024.04 ~ Smilegate Holdings (Server Developer)
 
 ### My Background
-![image](https://github.com/user-attachments/assets/1c382da4-8e35-4930-920f-3c337905cac1)
+
+![image](https://github.com/user-attachments/assets/82fd972e-6bb3-4194-a454-27cd8d4334cb)
