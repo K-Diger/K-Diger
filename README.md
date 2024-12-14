@@ -2,4 +2,5 @@
 
 ### My Background
 
-![backgroun-diger](https://github.com/user-attachments/assets/8edefd7d-92ed-4f92-94da-8b00bfed49dd)
+
+![backgroun-diger (1)](https://github.com/user-attachments/assets/c49cb0da-5c50-4a88-9297-6af8266d2dbc)
