@@ -1,4 +1,4 @@
-- 2024.04 ~ Smilegate Holdings (Server Developer)
+- 2024.04 ~ Smilegate Holdings (Backend Developer)
 
 ### My Background
 
