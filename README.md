@@ -2,4 +2,4 @@
 
 ### My Background
 
-![image](https://github.com/user-attachments/assets/1dc4acd3-aa49-49ce-974c-3f659c3a9218)
+![backgroun-diger-light drawio (1)](https://github.com/user-attachments/assets/cafcd5cd-6a1f-422c-bcd9-d5be9b0181e5)
