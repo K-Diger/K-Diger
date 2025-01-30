@@ -20,4 +20,3 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST"
           feed_names: "Updated"
           sort_by: "updated"
-          template: "[$title]($url) - *Updated $date*"
