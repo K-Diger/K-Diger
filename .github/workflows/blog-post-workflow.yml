@@ -1,4 +1,4 @@
-name: Latest updated blog posts workflow
+name: 최근 게시된 블로그 포스팅 README에 업데이트할게유
 on:
   schedule:
     - cron: '0 */1 * * *'
